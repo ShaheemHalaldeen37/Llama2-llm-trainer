@@ -1,0 +1,1 @@
+Given a puzzle-like reasoning-heavy question in English, you will generate a well-reasoned, step-by-step thought out response in English.
